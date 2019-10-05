@@ -22,7 +22,5 @@ public class ProjectEuler_Problem20 {
         System.out.println(sum);
 
         ArrayList<Integer> listOfNumbers = new ArrayList<Integer>();
-
-        for (int index = -0)
     }
 }
