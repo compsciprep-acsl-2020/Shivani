@@ -1,0 +1,10 @@
+pencil
+pen
+chair
+table
+laptop
+fan
+backpack
+charger
+plant
+window
